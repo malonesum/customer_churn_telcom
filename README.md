@@ -31,6 +31,7 @@ This analysis and presentation was my final project in my Data Science certifica
 	Tenure - Figure 11
 
 
-# Model Performance: Classification Report, Confusion Matrix
-Surprisingly, the Logistic Regression model performed the best out of the three models (F1 score .64 and recall .77). The worst model implemented was the Random Forest with an F1 score of .37, which is not surprising considering the dataset contains 49 features. RFE performed relatively poorly as well, resulting in a F1 score of .52. Full classification reports for each model are inserted on the next page.
+# Model Performance via Classification Report, Confusion Matrix
+Surprisingly, the Logistic Regression model performed the best out of the three models (F1 score .64 and recall .77). The worst model implemented was the Random Forest with an F1 score of .37, which is not surprising considering the dataset contains 49 features. RFE performed relatively poorly as well, resulting in a F1 score of .52.
+
 
