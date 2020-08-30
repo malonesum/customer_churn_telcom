@@ -1,5 +1,5 @@
 # Telco Customers and Predicting Churn
-Churn analysis via Logistic Regression, Random Forest, Feature Selection.
+Churn analysis via Logistic Regression, Random Forest, Recursive Feature Elimination (Logisitic Regression).
 
 This analysis and presentation was my final project in my Data Science certification program at UCLA
 
