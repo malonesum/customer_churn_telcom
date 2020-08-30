@@ -36,7 +36,7 @@ Surprisingly, the Logistic Regression model performed the best out of the three 
 
 
 # Utilized and edited code from various sources:
-https://www.kaggle.com/blastchar/telco-customer-churn
-https://github.com/irinhwng/Consumer-Insights-Metrics_and_Predictions
-https://github.com/akshayr89/Telecom_Churn_Model
-https://scikit-learn.org/
+// https://www.kaggle.com/blastchar/telco-customer-churn
+// https://github.com/irinhwng/Consumer-Insights-Metrics_and_Predictions
+// https://github.com/akshayr89/Telecom_Churn_Model
+// https://scikit-learn.org/
