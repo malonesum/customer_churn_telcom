@@ -35,3 +35,8 @@ This analysis and presentation was my final project in my Data Science certifica
 Surprisingly, the Logistic Regression model performed the best out of the three models (F1 score .64 and recall .77). The worst model implemented was the Random Forest with an F1 score of .37, which is not surprising considering the dataset contains 49 features. RFE performed relatively poorly as well, resulting in a F1 score of .52.
 
 
+# Utilized and edited code from various sources:
+https://www.kaggle.com/blastchar/telco-customer-churn
+https://github.com/irinhwng/Consumer-Insights-Metrics_and_Predictions
+https://github.com/akshayr89/Telecom_Churn_Model
+https://scikit-learn.org/
